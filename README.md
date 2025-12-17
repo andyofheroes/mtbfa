@@ -1,2 +1,2 @@
-# mtbfa
+# MTBFA
 Machine Translation for Bari Language
